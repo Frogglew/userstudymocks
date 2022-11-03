@@ -8,6 +8,8 @@ Complete the Quickstart: Get started with Azure Machine Learning to:
 Follow the Quickstart: Run Juypter notebook in Azure Machine Learning studio steps to create a new notebook.
 Or use the steps in the quickstart to clone the v2 tutorials folder, then open the notebook from the tutorials/azureml-in-a-day/azureml-in-a-day.ipynb folder in your File section.
 
+## Open Notebook on Studio
+
 ## Connect to the workspace
 
 ## Create a compute cluster
