@@ -6,8 +6,25 @@
 
 ## Step 1: Open Notebook on Studio
 
-## Step 2:
+## Step 2: Connect to your workspace
 
+```python
+# Handle to the workspace
+from azure.ai.ml import MLClient
+
+# Authentication package
+from azure.identity import DefaultAzureCredential
+
+credential = DefaultAzureCredential()
+
+# Get a handle to the workspace. You can find the info on the workspace tab on ml.azure.com
+ml_client = MLClient(
+    credential=credential,
+    subscription_id="",  # this will look like xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+    resource_group_name="",
+    workspace_name="",
+)
+```
 ## Step 3:
 
 ## (Optional) Connect to your Git respository
