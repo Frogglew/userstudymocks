@@ -1,12 +1,14 @@
 # ARTICLE NO X: EXAMPLE
 
+## Outcomes (if you do this, you'll get x, y, z)
+
 ## Prerequisites
 
-## Open Notebook on Studio
+## Step 1: Open Notebook on Studio
 
-## Step 1
+## Step 2:
 
-## Step 2
+## Step 3:
 
 ## (Optional) Connect to your Git respository
 
