@@ -1,0 +1,20 @@
+# 5. Create a re-usable pipeline
+Explains why use pipeline – value props, conceptual understanding. In more advanced MLOps setup, you could just tweak existing pipeline template, but in this tutorial, we will walk you through a simple version of that so you can see what that is like.
+
+## Open a sample notebook
+It would contain main.py (mlflow python file), custom env, etc.
+
+## choose a compute cluster for deployment
+Explains how to choose a cluster for deployment (may use the cluster already created in the previous training tutorial)
+
+## Create a custom environment
+
+## Different ways of creating a pipeline
+- UI (Designer)
+- Component
+
+## Edit the python file to create different steps (data pre-processing & training steps) 
+
+## Submit a pipeline job
+
+## Register the model
